@@ -1,0 +1,247 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material4705
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+newmtl Material4712
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl Material4700
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+newmtl Material4714
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+newmtl Material4710
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4646
+Ka 0.500000 0.451250 0.425000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_face.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_face.jpg
+newmtl Material4674
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+newmtl Material4509
+Ka 0.400000 0.346000 0.280000
+Kd 0.745098 0.745098 0.745098
+Ks 0.065034 0.065034 0.065034
+Ns 5.525180
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/hair02.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/hair02.jpg
+newmtl Material4482
+Ka 0.000000 0.000000 0.000000
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4487
+Ka 0.000000 0.000000 0.000000
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4497
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/transparency.png
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/transparency.png
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/transparency.png
+newmtl Material4651
+Ka 0.500000 0.451250 0.425000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_leg_hand.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_leg_hand.jpg
+newmtl Material4503
+Ka 0.400000 0.346000 0.280000
+Kd 0.745098 0.745098 0.745098
+Ks 0.138216 0.138216 0.138216
+Ns 6.935252
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/hair03_tr.png
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/hair03_tr.png
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/hair03_tr.png
+newmtl Material4662
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+newmtl Material4682
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl Material4659
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/transparency.png
+newmtl Material4477
+Ka 0.000000 0.000000 0.000000
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4492
+Ka 0.000000 0.000000 0.000000
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4669
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+newmtl Material4684
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_nudes.jpg
+newmtl Material4692
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/transparency.png
+newmtl Material4680
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4535
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 100.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_1.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_1.jpg
+newmtl Material4695
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+map_Ks C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_s.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/skin_beige_new.jpg
+newmtl Material4539
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+newmtl Material4641
+Ka 0.500000 0.451000 0.425000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_body_lingerie.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/W_body_lingerie.jpg
+newmtl Material4524
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+map_d C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_light.png
+newmtl Material4519
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 100.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_1.jpg
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/7376/1088/eye_1.jpg

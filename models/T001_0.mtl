@@ -1,0 +1,19 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material5026
+Ka 0.313726 0.313726 0.313726
+Kd 1.000000 1.000000 1.000000
+Ks 0.066667 0.066667 0.066667
+Ns 10.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/2976/1113/DP - Lace51_DESATURATION.png
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/2976/1113/DP - Lace51_DESATURATION.png
+newmtl Material5016
+Ka 0.300240 0.300676 0.301423
+Kd 0.957015 0.958404 0.960784
+Ks 0.066667 0.066667 0.066667
+Ns 10.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/2976/1114/DP - Lace51_DESATURATION.png
+map_Kd C:/Users/Asus/AppData/Local/CLO/CLO Enterprise OnlineAuth/2976/1114/DP - Lace51_DESATURATION.png
